@@ -1,1 +1,1 @@
-# Zadanie nr w JavaScript
+# Zadanie nr 1 w JavaScript
